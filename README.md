@@ -1,6 +1,8 @@
 # excel_unpacking
 Just an example how to work with excel files and agregate the information easy and faster then VBA.
 
+!!! PERMANENTLY MOVED TO NEW ADDRESS: http://git.khoz.ru/Khoz/excel_unpacking.git
+
 HOW TO USE
 ----------
 
